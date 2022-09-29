@@ -8,6 +8,11 @@ Over the course of the previous 2 modules, you have separately created an `auth-
 
 > **NOTE** - You will be using this server as a base for all future work in this course. Other servers will be merged with it, and we'll be using it to serve data to our front-end applications later in the course. Completion of this final lab is essential to your future work being integrated
 
+
+## UML
+
+![Lab 08](./images/Lab08-UML.png "Lab 08")
+
 ## Before you begin
 
 Create a UML diagram of the authentication system on a whiteboard before you start
